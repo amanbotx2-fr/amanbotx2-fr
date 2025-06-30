@@ -44,11 +44,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amanbotx2-fr/amanbotx2-fr/output/snake.svg" alt="Snake animation" />
 
 ###
 
