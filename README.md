@@ -24,7 +24,7 @@ const aman = {
         misc: ["Linux", "Git"]
     },
     currentFocus: "Learning Kotlin for Android Development",
-    funFact: "I debug with console.log() and I'm not ashamed! 🤷‍♂️"
+    funFact: "I'm Batman"
 };
 ```
 
