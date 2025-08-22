@@ -55,7 +55,7 @@ const aman = {
   <a href="https://www.linkedin.com/in/amankr06/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/amankumar_2006" target="_blank">
+  <a href="https://x.com/amankumar_2006" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
   <a href="https://instagram.com/null.pointer_aman" target="_blank">
