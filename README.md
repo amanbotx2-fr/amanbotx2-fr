@@ -1,64 +1,48 @@
-# Hey, I'm Aman! 🐧✨
+# Hi, I'm Aman Kumar 
 
- Just a random developer with some random projects 🚀
+I'm a student developer learning to build things one concept at a time. I believe in understanding over speed, and I'm here to document my journey as I grow.
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+## About Me
 ```javascript
 const aman = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "HTML", "CSS", "Kotlin"],
-    askMeAbout: ["web dev", "tech", "app dev",],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB"],
-        misc: ["Linux", "Git"]
-    },
-    currentFocus: "Learning Kotlin for Android Development",
-    funFact: "I'm Batman"
+  currentFocus: "Building strong fundamentals",
+  learning: ["Data Structures & Algorithms", "Web Development", "Swift"],
+  approach: "Concept clarity > Speed",
+  status: "Student Developer"
 };
 ```
 
-<br>
+I'm currently a beginner-to-intermediate developer working on strengthening my foundation. I enjoy problem-solving, building small projects, and learning new technologies at my own pace.
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## What I'm Learning
 
-<h3 align="center">Currently Learning:</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+**Data Structures & Algorithms**  
+Working through problems in C++. I've completed pattern problems from Striver's A2Z DSA Sheet and I'm continuing to build my problem-solving skills step by step.
 
-<h3 align="center">Languages & Technologies I Use:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+**Web Development**  
+Building projects with HTML, CSS, and JavaScript. I'm focused on understanding how things work under the hood.
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amankr06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://x.com/amankumar_2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/null.pointer_aman" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+**Swift**  
+Taking my time to learn Swift fundamentals. Still in the early stages, but enjoying the process.
+
+## Tech Stack
+
+**Languages**  
+C++, JavaScript, HTML, CSS, Swift (learning)
+
+
+## Learning in Public
+
+I share my learning journey and thoughts on:
+
+- [LinkedIn](https://www.linkedin.com/in/amankr06/)
+- [X (Twitter)](https://x.com/amankumar_2006)
+- [Instagram](https://instagram.com/yourhandle)
+
+## Connect
+
+If you're also learning or want to share feedback on my projects, feel free to reach out. Always open to connecting with fellow learners.
+
+---
+
+*"Progress over perfection."*
