@@ -16,6 +16,8 @@
 
 ---
 
+<img align="right" src="https://media.tenor.com/iWRdtOFCuQwAAAAi/psyduck-deliciousdaywithpokemon.gif" width="180"/>
+
 ### About Me
 
 I'm a developer exploring AI, intelligent systems, and app development. Currently building projects that focus on optimization, productivity, and real-world problem solving.
