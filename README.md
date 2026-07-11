@@ -4,7 +4,7 @@
 
 <div align="center">
 
-##  Let's Connect
+##  👀Let's Connect
 
 I'm always open to collaborating on projects, discussing ideas, or just having a good conversation about tech. Whether you're a fellow learner, a builder, or someone with an interesting problem to solve — feel free to reach out.
 
